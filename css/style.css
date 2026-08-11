@@ -1210,6 +1210,13 @@ body.light-mode #bottom-nav {
   color: var(--text-primary);
   outline: none;
   transition: all 0.2s;
+  box-sizing: border-box;
+  font-family: inherit;
+  font-size: var(--font-md);
+  min-height: 44px;
+  line-height: normal;
+  -webkit-appearance: none;
+  appearance: none;
 }
 
 .form-group input:focus,

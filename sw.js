@@ -1,5 +1,5 @@
 // Service Worker for offline caching
-const CACHE_NAME = 'soccer-card-manager-v2';
+const CACHE_NAME = 'soccer-card-manager-v3';
 const ASSETS = [
   './',
   './index.html',
