@@ -1,0 +1,17 @@
+{
+  "name": "축구카드 매니저",
+  "short_name": "카드매니저",
+  "description": "축구카드 컬렉션 종합 관리 앱",
+  "start_url": "./index.html",
+  "display": "standalone",
+  "background_color": "#0A0E17",
+  "theme_color": "#0A0E17",
+  "orientation": "portrait",
+  "icons": [
+    {
+      "src": "data:image/svg+xml,<svg xmlns='http://www.w3.org/2000/svg' viewBox='0 0 100 100'><text y='.9em' font-size='90'>⚽</text></svg>",
+      "sizes": "any",
+      "type": "image/svg+xml"
+    }
+  ]
+}
